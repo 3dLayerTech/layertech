@@ -125,7 +125,7 @@ rgba(0,10,25,.90) 28%,
 rgba(0,10,25,.45) 55%,
 rgba(0,0,0,.12) 100%
 ),
-url("assets/hero-layertech-bg.png");
+url("/hero-layertech-bg.png");
 
 background-size:cover;
 background-position:center right;
